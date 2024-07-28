@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/to-do-list-programmers-tech/static/css/main.090a2e93.css",
+    "main.js": "/to-do-list-programmers-tech/static/js/main.a2141cb8.js",
+    "static/js/453.f868c0fa.chunk.js": "/to-do-list-programmers-tech/static/js/453.f868c0fa.chunk.js",
+    "index.html": "/to-do-list-programmers-tech/index.html",
+    "main.090a2e93.css.map": "/to-do-list-programmers-tech/static/css/main.090a2e93.css.map",
+    "main.a2141cb8.js.map": "/to-do-list-programmers-tech/static/js/main.a2141cb8.js.map",
+    "453.f868c0fa.chunk.js.map": "/to-do-list-programmers-tech/static/js/453.f868c0fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.090a2e93.css",
+    "static/js/main.a2141cb8.js"
+  ]
+}
